@@ -21,7 +21,7 @@
 
 <img src="https://github.com/user-attachments/assets/a7cab8c5-66b7-41b2-9dba-1cbed097d198" alt="gif" />
 
-[![Spotify](https://novatorem-seven-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/1b6d6a3071bb4ccdb48bf92ef4a9c500)
+[![Spotify](https://novatorem-n8rpvxego-darrkkens-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Fernando)
 
 
 
