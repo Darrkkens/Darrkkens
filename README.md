@@ -6,7 +6,7 @@
 
 
 
-Skills
+##SKILS
 
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@ Skills
 
 <img src="https://github.com/user-attachments/assets/a7cab8c5-66b7-41b2-9dba-1cbed097d198" alt="gif" />
 
-[![Spotify](https://novatorem-cuzb7hd23-darrkkens-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Fernando)
+[![Spotify](https://novatorem-seven-ebon.vercel.app/api/spotify)](https://open.spotify.com/user/1b6d6a3071bb4ccdb48bf92ef4a9c500)
 
 
 
