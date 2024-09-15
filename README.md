@@ -19,18 +19,9 @@ Skills
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
+<img src="https://github.com/user-attachments/assets/a7cab8c5-66b7-41b2-9dba-1cbed097d198" alt="gif" />
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&theme=blue-green" alt="Top Langs" />
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/a7cab8c5-66b7-41b2-9dba-1cbed097d198" alt="gif" />
-    </td>
-  </tr>
-</table>
-
+[![Spotify](https://novatorem-cuzb7hd23-darrkkens-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Fernando)
 
 
 
