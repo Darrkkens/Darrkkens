@@ -34,11 +34,12 @@ Também gosto bastante de resolver problemas de infra (Nginx, Docker), observar 
 ---
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darrkkens&show_icons=true&hide_border=false&count_private=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&layout=compact&hide_border=false&theme=dark" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Darrkkens&show_icons=true&hide_border=false&count_private=true&theme=dark" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&layout=compact&hide_border=false&theme=dark" />
 </p>
+
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark" />
+  <img height="140px" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark" />
 </p>
 
 ### O que me interessa
