@@ -34,8 +34,8 @@ Também gosto bastante de resolver problemas de infra (Nginx, Docker), observar 
 ---
 
 <p align="left">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Darrkkens&show_icons=true&hide_border=false&count_private=true&theme=dark" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&layout=compact&hide_border=false&theme=dark" />
+  <img height="49%" src="https://github-readme-stats.vercel.app/api?username=Darrkkens&show_icons=true&hide_border=false&count_private=true&theme=dark" />
+  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&layout=compact&hide_border=false&theme=dark" />
 </p>
 
 <p align="left">
@@ -53,7 +53,7 @@ Gosto do que funciona, do que escala e do que mantém o time produtivo.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandohenrique.brandalise@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandofhb/)
 
-<img src="https://github.com/user-attachments/assets/a7cab8c5-66b7-41b2-9dba-1cbed097d198" alt="Animação ilustrando meu trabalho fullstack" width="480" />
+<img src="https://github.com/user-attachments/assets/a7cab8c5-66b7-41b2-9dba-1cbed097d198" alt="Animação ilustrando meu trabalho fullstack" width="300" />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake-dark.svg">
