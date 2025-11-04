@@ -33,7 +33,7 @@ Também gosto bastante de resolver problemas de infra (Nginx, Docker), observar 
 
 ---
 <p align="left">
-  <img height="140px" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark" />
+  <img height="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark" />
 </p>
 
 ### O que me interessa
