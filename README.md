@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Fullstack Developer | API Integrations | Mensageria | Infra & Automação
+*Fullstack Developer | API Integrations | Mensageria | Infra & Automação*
 
 Gosto de criar soluções completas: do front ao servidor, do banco ao deploy.
 Meu foco é construir sistemas que funcionam de verdade no mundo real estáveis, performáticos e simples de manter.
