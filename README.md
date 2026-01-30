@@ -27,10 +27,6 @@ Também gosto bastante de resolver problemas de infra (Nginx, Docker), observar 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Darrkkens&color=blue&style=for-the-badge" />
-</p>
-
 ---
 <p align="left">
   <img height="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark" />
