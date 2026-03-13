@@ -25,6 +25,8 @@ Também gosto bastante de resolver problemas de infra (Nginx, Docker), observar 
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ---
@@ -50,3 +52,10 @@ Gosto do que funciona, do que escala e do que mantém o time produtivo.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake.svg">
   <img align="center" alt="Animação snake do grid de contribuições" src="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="left">
+  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&layout=compact&theme=dark" />
+</p>
+
+
+
