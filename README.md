@@ -31,9 +31,6 @@
   <img align="center" alt="Animação snake do grid de contribuições" src="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="left">
-  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&layout=compact&theme=dark" />
-</p>
 
 
 
