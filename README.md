@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-*Fullstack Developer | API Integrations | Mensageria | Infra & Automação*
+*Fullstack Developer 
 
 <p align="left">
   <!-- linguagens -->
