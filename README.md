@@ -1,6 +1,4 @@
-<h1 align="left">Fernando Brandalise</h1>
-
-<h3 align="left">Fullstack Developer | Go, Vue, Quasar, PostgreSQL & Docker</h3>
+<h1 align="left">Fullstack Developer | Go, Vue, Quasar, PostgreSQL & Docker</h1>
 
 <p align="left">
   Fullstack developer focused on web applications, integrations, performance and Linux-based environments.
