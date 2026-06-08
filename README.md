@@ -1,10 +1,5 @@
 <h1 align="left">Fullstack Developer | Go, Vue, Quasar, PostgreSQL & Docker</h1>
 
-<p align="left">
-  Fullstack developer focused on web applications, integrations, performance and Linux-based environments.
-  I work mainly with Go, Vue.js, Quasar, PostgreSQL, Docker and Arch Linux + Hyprland.
-</p>
-
 ---
 
 ## Tech Stack
@@ -26,15 +21,6 @@
 
 ---
 
-## About me
-
-- Fullstack developer focused on real-world business applications.
-- Experience with chat systems, WebSocket, media delivery and backend performance.
-- Currently studying Computer Engineering.
-- Interested in scalable systems, Linux environments, automation and developer tooling.
-- Daily driver: Arch Linux + Hyprland.
-
----
 
 ## GitHub Activity
 
