@@ -1,4 +1,4 @@
-<h1 align="left">Fullstack Developer | Go, Vue, Quasar, PostgreSQL & Docker</h1>
+<h1 align="left">Fullstack Developer
 
 ---
 
