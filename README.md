@@ -1,7 +1,5 @@
 <h1 align="left">Fullstack Developer
 
----
-
 ## Tech Stack
 
 <p align="left">
@@ -20,7 +18,6 @@
 </p>
 
 ---
-
 
 ## GitHub Activity
 
