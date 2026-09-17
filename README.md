@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge"/>
 </p>
 
----
-
 ## GitHub Activity
 
 <p align="left">
