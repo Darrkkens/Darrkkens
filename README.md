@@ -23,8 +23,6 @@
   <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark&hide_border=true" />
 </p>
 
----
-
 ## Contact me
 
 <p align="left">
@@ -36,13 +34,9 @@
   </a>
 </p>
 
----
-
 <p align="left">
   <img src="https://github.com/user-attachments/assets/a7cab8c5-66b7-41b2-9dba-1cbed097d198" alt="Fullstack work animation" width="300" />
 </p>
-
----
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake-dark.svg">
