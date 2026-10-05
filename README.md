@@ -43,3 +43,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake.svg">
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Open Source Project
+
+<p align="left">
+  <a href="https://github.com/Darrkkens/matchmind">
+    <img src="https://img.shields.io/badge/MatchMind-Go%20%2B%20Vue-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="MatchMind"/>
+  </a>
+</p>
+
+- **[MatchMind](https://github.com/Darrkkens/matchmind)** — analista local de futebol brasileiro, com dados e estatísticas da Série A e IA executada localmente.
