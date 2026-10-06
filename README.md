@@ -20,7 +20,8 @@
 ## GitHub Activity
 
 <p align="left">
-  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=Darrkkens&theme=dark&hide_border=true" alt="Sequência de contribuições"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrkkens&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
 </p>
 
 ## Contact me
