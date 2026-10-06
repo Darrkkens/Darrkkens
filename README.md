@@ -50,6 +50,10 @@
   <a href="https://github.com/Darrkkens/matchmind">
     <img src="https://img.shields.io/badge/MatchMind-Go%20%2B%20Vue-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="MatchMind"/>
   </a>
+  <a href="https://github.com/Darrkkens/bairro-acao">
+    <img src="https://img.shields.io/badge/Bairro%20em%20A%C3%A7%C3%A3o-Go%20%2B%20React-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Bairro em Ação"/>
+  </a>
 </p>
 
 - **[MatchMind](https://github.com/Darrkkens/matchmind)** — analista local de futebol brasileiro, com dados e estatísticas da Série A e IA executada localmente.
+- **[Bairro em Ação](https://github.com/Darrkkens/bairro-acao)** — aplicação web para registrar problemas urbanos com fotos e geolocalização, com suporte offline, geração de relatórios e IA executada localmente.
