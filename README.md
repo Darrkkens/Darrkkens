@@ -45,6 +45,10 @@
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Conquistas e comunidade
+
+[![Holopin Badges](https://holopin.me/darrkkens)](https://holopin.io/@darrkkens)
+
 ## Open Source Projects
 
 <p align="left">
