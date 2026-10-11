@@ -45,7 +45,7 @@
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Darrkkens/Darrkkens/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2 align="center">🏆 Conquistas Open Source</h2>
+<h2 align="center"> Conquistas Open Source</h2>
 
 <p align="center">
   <a href="https://holopin.io/@darrkkens">
