@@ -1,14 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007D9C,100:00ADD8&height=200&section=header&text=Fernando%20Brandalise&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Fullstack%20Developer%20%C2%B7%20Gopher&descSize=18&descAlignY=56&animation=fadeIn" alt="Fernando Brandalise — Fullstack Developer" width="100%"/>
-</p>
-
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00ADD8&center=true&vCenter=true&width=650&lines=Backend+Engineering+with+Go;APIs%2C+Databases+%26+System+Architecture;Performance%2C+Security+%26+Scalability;Linux+Enthusiast+%26+Open+Source+Contributor"
-    alt="Typing SVG"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:007D9C,100:00ADD8&height=200&section=header&text=Fernando%20Brandalise&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Go%20Developer%20%C2%B7%20Full%20Stack%20Engineer&descSize=18&descAlignY=56&animation=fadeIn"
+    alt="Fernando Brandalise — Go Developer & Full Stack Engineer"
+    width="100%"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00ADD8&center=true&vCenter=true&width=760&lines=Building+Scalable+Backends+with+Go;Full+Stack+Development+%C2%B7+Go+%2B+Vue.js;PostgreSQL+%C2%B7+APIs+%C2%B7+System+Architecture;Performance+%C2%B7+Security+%C2%B7+Observability;Linux+%C2%B7+Docker+%C2%B7+Open+Source"
+    alt="Go development, Full Stack engineering, databases and infrastructure"
+  />
+</p>
+
 
 
 <p align="center">
@@ -95,8 +100,8 @@
     <td>
       <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
       <a href="https://gin-gonic.com/"><img src="https://api.iconify.design/logos/gin.svg" alt="Gin" width="40" height="40"/></a>
-      <a href="https://go-chi.io/"><img src="https://api.iconify.design/lucide/route.svg?color=%2300ADD8" alt="Chi" width="40" height="40"/></a>
-      <a href="https://echo.labstack.com/"><img src="https://api.iconify.design/lucide/server.svg?color=%2300ADD8" alt="Echo" width="40" height="40"/></a>
+      <a href="https://go-chi.io/"><img src="img/chi.svg" alt="Chi" width="40" height="40"/></a>
+      <a href="https://echo.labstack.com/"><img src="img/echo.svg" alt="Echo" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
