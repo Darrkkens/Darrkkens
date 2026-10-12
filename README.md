@@ -33,47 +33,36 @@
 
 <br clear="right"/>
 
+
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300ADD8" width="24" height="24" align="absmiddle"/> Ferramentas
 
 <table>
   <tr>
     <td width="150"><b>Sistema & Desktop</b></td>
     <td>
-      <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
-      <a href="https://cachyos.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/cachyos.svg" alt="cachyos" width="40" height="40"/> </a>
-      <a href="https://hypr.land/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hyprland/58E1FF" alt="hyprland" width="40" height="40"/> </a>
-      <a href="https://sw.kovidgoyal.net/kitty/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" alt="kitty" width="40" height="40"/> </a>
-      <a href="https://alacritty.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/alacritty" alt="alacritty" width="40" height="40"/> </a>
-      <a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zsh" alt="zsh" width="40" height="40"/> </a>
-      <a href="https://starship.rs/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/starship.svg" alt="starship" width="40" height="40"/> </a>
+      <a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/></a>
+      <a href="https://cachyos.org/"><img src="https://api.iconify.design/devicon/cachyos.svg" alt="CachyOS" width="40" height="40"/></a>
+      <a href="https://hypr.land/"><img src="https://cdn.simpleicons.org/hyprland/58E1FF" alt="Hyprland" width="40" height="40"/></a>
+      <a href="https://sw.kovidgoyal.net/kitty/"><img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" alt="Kitty" width="40" height="40"/></a>
+      <a href="https://starship.rs/"><img src="https://api.iconify.design/devicon/starship.svg" alt="Starship" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
-    <td width="150"><b>Dev</b></td>
+    <td width="150"><b>Desenvolvimento</b></td>
     <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></picture>
-      <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/tmux.svg" alt="tmux" width="40" height="40"/> </a>
-      <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
-      <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/> </a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-      <a href="https://www.beekeeperstudio.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/beekeeperstudio" alt="beekeeper studio" width="40" height="40"/> </a>
+      <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+      <a href="https://github.com/"><img src="https://api.iconify.design/simple-icons/github.svg?color=%238B949E" alt="GitHub" width="40" height="40"/></a>
+      <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+      <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+      <a href="https://www.beekeeperstudio.io/"><img src="https://cdn.simpleicons.org/beekeeperstudio" alt="Beekeeper Studio" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
-    <td width="150"><b>Segurança</b></td>
+    <td width="150"><b>Inteligência Artificial</b></td>
     <td>
-      <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/burpsuite.svg" alt="burpsuite" width="40" height="40"/> </a>
-      <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/wireshark" alt="wireshark" width="40" height="40"/> </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="150"><b>IA</b></td>
-    <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/white"><img src="https://api.iconify.design/devicon/ollama.svg" alt="ollama" width="40" height="40"/></picture>
+      <a href="https://ollama.com/"><img src="https://api.iconify.design/simple-icons/ollama.svg?color=%238B949E" alt="Ollama" width="40" height="40"/></a>
       <br/>
-      <sub>Ollama com Gemma local</sub>
+      <sub>Ollama + Gemma local</sub>
     </td>
   </tr>
 </table>
@@ -84,72 +73,67 @@
   <tr>
     <td width="150"><b>Linguagens</b></td>
     <td>
-      <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-      <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/file-icons/latex.svg?color=white"><img src="https://api.iconify.design/devicon/latex.svg" alt="latex" width="40" height="40"/></picture>
+      <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+      <a href="https://www.ruby-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="150"><b>Frontend</b></td>
+    <td>
+      <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></a>
+      <a href="https://nuxt.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="40" height="40"/></a>
+      <a href="https://quasar.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" alt="Quasar" width="40" height="40"/></a>
+      <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+      <a href="https://threejs.org/"><img src="https://api.iconify.design/devicon/threejs.svg" alt="Three.js" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
     <td width="150"><b>Backend</b></td>
     <td>
-      <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/gin.svg" alt="gin" width="40" height="40"/> </a>
-      <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> </a>
-      <a href="https://hotwired.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hotwire" alt="hotwire" width="40" height="40"/> </a>
-      <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/opentelemetry.svg" alt="opentelemetry" width="40" height="40"/> </a>
+      <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+      <a href="https://gin-gonic.com/"><img src="https://api.iconify.design/logos/gin.svg" alt="Gin" width="40" height="40"/></a>
+      <a href="https://go-chi.io/"><img src="https://api.iconify.design/lucide/route.svg?color=%2300ADD8" alt="Chi" width="40" height="40"/></a>
+      <a href="https://echo.labstack.com/"><img src="https://api.iconify.design/lucide/server.svg?color=%2300ADD8" alt="Echo" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
-    <td width="150"><b>Frontend & Mobile</b></td>
+    <td width="150"><b>Mobile</b></td>
     <td>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
-      <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" alt="quasar" width="40" height="40"/> </a>
-      <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-      <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/> </a>
-      <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threedotjs/white"><img src="https://api.iconify.design/devicon/threejs.svg" alt="threejs" width="40" height="40"/></picture>
-      <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/pinia.svg" alt="pinia" width="40" height="40"/> </a>
-      <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/storybook.svg" alt="storybook" width="40" height="40"/> </a>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+      <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
-    <td width="150"><b>Dados & Storage</b></td>
+    <td width="150"><b>Banco de Dados</b></td>
     <td>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-      <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/white"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></picture>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
-      <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/minio" alt="minio" width="40" height="40"/> </a>
+      <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+      <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
+      <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
     <td width="150"><b>DevOps & Infra</b></td>
     <td>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-      <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
-      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a>
-      <a href="https://workers.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/cloudflare-workers-icon.svg" alt="cloudflare workers" width="40" height="40"/> </a>
-      <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/n8n.svg" alt="n8n" width="40" height="40"/> </a>
-      <a href="https://signoz.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/signoz.svg" alt="signoz" width="40" height="40"/> </a>
+      <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+      <a href="https://nginx.org/"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40"/></a>
+      <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
+      <a href="https://workers.cloudflare.com/"><img src="https://api.iconify.design/logos/cloudflare-workers-icon.svg" alt="Cloudflare Workers" width="40" height="40"/></a>
+      <a href="https://signoz.io/"><img src="https://api.iconify.design/logos/signoz.svg" alt="SigNoz" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
     <td width="150"><b>Testes</b></td>
     <td>
-      <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/playwright.svg" alt="playwright" width="40" height="40"/> </a>
-      <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/vitest.svg" alt="vitest" width="40" height="40"/> </a>
-      <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/devicon/selenium.svg" alt="selenium" width="40" height="40"/> </a>
+      <a href="https://playwright.dev/"><img src="https://api.iconify.design/devicon/playwright.svg" alt="Playwright" width="40" height="40"/></a>
+      <a href="https://vitest.dev/"><img src="https://api.iconify.design/devicon/vitest.svg" alt="Vitest" width="40" height="40"/></a>
+      <a href="https://www.selenium.dev/"><img src="https://api.iconify.design/devicon/selenium.svg" alt="Selenium" width="40" height="40"/></a>
     </td>
   </tr>
 </table>
+
+  
 
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300ADD8" width="24" height="24" align="absmiddle"/> Projetos Open Source
 
@@ -211,3 +195,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:007D9C&height=110&section=footer" alt="" width="100%"/>
 </p>
+
