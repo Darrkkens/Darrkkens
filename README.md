@@ -151,8 +151,11 @@
   <a href="https://github.com/Darrkkens/bairro-acao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Darrkkens&repo=bairro-acao&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="Bairro em Ação" width="49%"/></a>
 </p>
 
-- **[MatchMind](https://github.com/Darrkkens/matchmind)** — analista local de futebol brasileiro, com dados e estatísticas da Série A e IA executada localmente. · <img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%2300ADD8" width="16" height="16" align="absmiddle"/> [artigo no DEV](https://dev.to/darrkkens/i-built-my-girlfriend-a-local-gemma-football-analyst-that-wont-make-up-the-stats-4mb7)
-- **[Bairro em Ação](https://github.com/Darrkkens/bairro-acao)** — aplicação web para registrar problemas urbanos com fotos e geolocalização, com suporte offline, geração de relatórios e IA executada localmente. · <img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%2300ADD8" width="16" height="16" align="absmiddle"/> [artigo no DEV](https://dev.to/darrkkens/i-walked-my-neighborhood-with-the-phone-in-my-pocket-and-a-local-gemma-wrote-the-report-7f2)
+
+- **[MatchMind](https://github.com/Darrkkens/matchmind)** — Aplicação Full Stack com **Go, Vue 3 e IA local via Ollama/Gemma**. Integração de dados esportivos, validação de respostas de IA, otimização de contexto e testes automatizados. · <img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%2300ADD8" width="16" height="16" align="absmiddle"/> [Estudo de caso no DEV](https://dev.to/darrkkens/i-built-my-girlfriend-a-local-gemma-football-analyst-that-wont-make-up-the-stats-4mb7)
+
+- **[Bairro em Ação](https://github.com/Darrkkens/bairro-acao)** — Aplicação web offline-first com **Go, PostgreSQL e IA local**. Filas de processamento assíncrono, sincronização offline, deduplicação de imagens e geração de relatórios. · <img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%2300ADD8" width="16" height="16" align="absmiddle"/> [Estudo de caso no DEV](https://dev.to/darrkkens/i-walked-my-neighborhood-with-the-phone-in-my-pocket-and-a-local-gemma-wrote-the-report-7f2)
+
 
 ## <img src="https://api.iconify.design/lucide/trophy.svg?color=%2300ADD8" width="24" height="24" align="absmiddle"/> Conquistas Open Source
 
