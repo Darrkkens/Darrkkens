@@ -28,13 +28,17 @@
 
 <img align="right" src="img/gopher.png" alt="Gopher — Go é minha linguagem principal" width="210"/>
 
-<img src="https://api.iconify.design/lucide/code-xml.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Desenvolvedor Fullstack: Go no backend, Vue/Quasar e React no frontend, Flutter no mobile.<br/>
-<img src="https://api.iconify.design/lucide/puzzle.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Também trabalho com Node.js e Ruby.<br/>
-<img src="https://api.iconify.design/lucide/database.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Dados com PostgreSQL e Redis; deploy com Docker e Nginx.<br/>
-<img src="https://api.iconify.design/lucide/bot.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Projetos open source com IA rodando localmente.<br/>
-<img src="https://api.iconify.design/simple-icons/archlinux.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Arch Linux + Hyprland no dia a dia.<br/>
-<img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Participando do Hacktoberfest 2026 no DEV.<br/>
+
+<img src="https://api.iconify.design/lucide/code-xml.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Desenvolvedor <b>Full Stack com foco em Go</b>, construindo APIs, integrações e aplicações web com Vue.js, Nuxt, Quasar e TypeScript.<br/>
+<img src="https://api.iconify.design/lucide/layers.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Experiência com <b>arquitetura de software, sistemas distribuídos, autenticação e segurança de APIs</b>.<br/>
+<img src="https://api.iconify.design/lucide/database.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; PostgreSQL e Redis, com foco em <b>otimização de consultas, performance e escalabilidade</b>.<br/>
+<img src="https://api.iconify.design/lucide/server.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Infraestrutura com <b>Linux, Docker, Nginx, CI/CD e observabilidade com SigNoz</b>.<br/>
+<img src="https://api.iconify.design/lucide/blocks.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Também trabalho com React, Node.js, Ruby e Flutter.<br/>
+<img src="https://api.iconify.design/lucide/bot.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Desenvolvo projetos <b>open source com inteligência artificial local</b>, utilizando Ollama e Gemma.<br/>
+<img src="https://api.iconify.design/simple-icons/archlinux.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Entusiasta de Linux, utilizando Arch/CachyOS + Hyprland no dia a dia.<br/>
+<img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Participante do Hacktoberfest 2026 e colaborador em projetos open source.<br/>
 <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2300ADD8" width="18" height="18" align="absmiddle"/>&nbsp; Brasil
+
 
 <br clear="right"/>
 
