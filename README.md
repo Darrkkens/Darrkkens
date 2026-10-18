@@ -147,10 +147,13 @@
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300ADD8" width="24" height="24" align="absmiddle"/> Projetos Open Source
 
 <p align="left">
+  <a href="https://github.com/Darrkkens/gitview"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Darrkkens&repo=gitview&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="GitView" width="49%"/></a>
   <a href="https://github.com/Darrkkens/matchmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Darrkkens&repo=matchmind&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="MatchMind" width="49%"/></a>
   <a href="https://github.com/Darrkkens/bairro-acao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Darrkkens&repo=bairro-acao&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="Bairro em Ação" width="49%"/></a>
 </p>
 
+
+- **[GitView](https://github.com/Darrkkens/gitview)** — Ferramenta em **Go** para entender repositórios: Git em tempo real no terminal, grafo de chamadas, fluxo de dados, rotas HTTP e SQL. Inclui o **CodeAudit**, auditoria de segurança local com análise estática e explicações via **Ollama/Gemma**, com cada evidência citada pelo modelo conferida. · <img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%2300ADD8" width="16" height="16" align="absmiddle"/> [Estudo de caso no DEV](https://dev.to/darrkkens/gitview-codeaudit-go-security-reviews-that-never-leave-your-laptop-48f5)
 
 - **[MatchMind](https://github.com/Darrkkens/matchmind)** — Aplicação Full Stack com **Go, Vue 3 e IA local via Ollama/Gemma**. Integração de dados esportivos, validação de respostas de IA, otimização de contexto e testes automatizados. · <img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%2300ADD8" width="16" height="16" align="absmiddle"/> [Estudo de caso no DEV](https://dev.to/darrkkens/i-built-my-girlfriend-a-local-gemma-football-analyst-that-wont-make-up-the-stats-4mb7)
 
