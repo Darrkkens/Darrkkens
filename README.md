@@ -169,8 +169,8 @@
   </tr>
   <tr>
     <td align="center" width="170">
-      <a href="https://dev.to/darrkkens"><img src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/badge/badge_image/506/hf26-badge-completion.png" alt="Hacktoberfest 2026 Challenge Completion" width="110"/></a><br/>
-      <sub><b>Hacktoberfest 2026</b><br/>Challenge Completion</sub>
+      <a href="https://dev.to/darrkkens"><img src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/badge/badge_image/486/hacktoberfest-2026-completionist.png" alt="Hacktoberfest 2026 Completionist" width="110"/></a><br/>
+      <sub><b>Hacktoberfest 2026</b><br/>Completionist</sub>
     </td>
     <td align="center" width="170">
       <a href="https://holopin.io/@darrkkens"><img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" alt="Hacktoberfest 2025: Level 0 Registered" width="110"/></a><br/>
